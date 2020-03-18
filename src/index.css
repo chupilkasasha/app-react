@@ -1,0 +1,10 @@
+.wrapApp {
+  width: 380px;
+  margin: 0 auto;
+}
+
+.top-panel {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}

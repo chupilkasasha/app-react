@@ -1,0 +1,21 @@
+.todo-list-item {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn:hover {
+  color: rgb(251, 255, 0);
+}
+
+.wrapIcons {
+  display: flex;
+}
+
+.done {
+  text-decoration: line-through red;
+}
+.important {
+  font-weight: bold;
+  color: grey;
+}
